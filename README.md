@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imraghul
 - 👀 I’m interested in making impossible things possible.
-- 🌱 I’m currently learning GITHUB
-- 💞️ I’m looking to collaborate on laravel projects
+- 🌱 Using GITHUB for all our development activities.
+- 💞️ Managing @rgprodesigners currently
 - 📫 you can reach me @ raghul.rgprodesigners@gmail.com
 
 <!---
