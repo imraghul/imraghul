@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imraghul
 - 👀 I’m interested in making impossible things possible.
 - 🌱 Using GITHUB for all our development activities.
-- 💞️ Managing @rgprodesigners currently
+- 💞️ Director @rgprodesigners 
 - 📫 you can reach me @ raghul.rgprodesigners@gmail.com
 
 <!---
